@@ -1,13 +1,11 @@
 # Disney Clone Website.
 
-<center>
-
+<p align="center">
 
 https://github.com/minhaaj-t/ReactJs-DisneyClone/assets/72432356/5daedb67-ef71-4ac3-936d-84758cd169eb
 
 
-
-</center>
+</p>
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
